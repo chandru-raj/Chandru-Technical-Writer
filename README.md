@@ -18,6 +18,8 @@ Experienced Technical Writer with 6.8 years of expertise in creating user-centri
 *	Excellent English language verbal, written and interpersonal communication skills.
 
 ## TECHNICAL WRITING TOOLS	
+| Tools | Tools name |
+|---|---|
 | Authoring Tools |	Experience League Authoring (Markdown-based), Adobe Experience Manager (HelpX), Docusaurus, Microsoft Word, Adobe RoboHelp, Adobe FrameMaker, Doc-as-Code, Oxygen XML |
 | Publishing Tools | Cloudberry Explorer (S3 Bucket), Jenkins |
 | Languages |	HTML5, CSS3, Markdown |
